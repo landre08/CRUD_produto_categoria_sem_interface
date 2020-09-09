@@ -2,3 +2,4 @@
 - Desenvolvimento paradigma estruturado
 - CRUD de produto, categoria e subcategoria
 - Sem estilização na interface gráfica. Foco foi back end
+- Há, no projeto, uma função de paginação
